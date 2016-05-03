@@ -17,7 +17,7 @@ Nebri is all about the flow of information. It can be between software, people, 
     rules/index
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
 
     cards/index
 
